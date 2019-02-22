@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">SmartDB Box</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    /*LOGIN FORM DEFAULT VALUE*/
+    <string name="login_email">Your name</string>
+    <string name="login_passwd">Your password</string>
+    <string name="login_btnlogin">Login</string>
+    <string name="login_btnregister">Register now</string>
+
+
+    /*REGISTER FORM DEFAULT VALUE*/
+    <string name="register_name">Your name</string>
+    <string name="register_uname">Your username</string>
+    <string name="register_email">Your email</string>
+    <string name="register_passwd">Your password</string>
+    <string name="register_repasswd">Confirm password</string>
+    <string name="register_btnregister">Register now</string>
+    <string name="register_btnback">Back</string>
+
+
+    /*DRAWER MENU NAME */
+    <string name="drawer_home">Home</string>
+    <string name="drawer_profile">My Profile</string>
+    <string name="drawer_setting">Setting</string>
+    <string name="drawer_history">My History</string>
+    <string name="drawer_logout">Logout</string>
+    <string name="drawer_statistic">Statistic</string>
+    <integer name="swing_anim_time">350</integer>
+    <string name="drawer_username">Haziq Haikal</string>
+    <string name="drawer_email">haziqhaikal@gmail.com</string>
+
+    /*PAGE TITLE*/
+    <string name="pagetitle_buildcar">Build your car</string>
+    <string name="pagetitle_playcar">Interactive panel</string>
+    <string name="pagetitle_modifycar">Modify your car</string>
+    <string name="pagetitle_selectcar">Select your car</string>
+    <string name="pagetitle_traincar">Train your car</string>
+    <string name="pagetitle_cartuto">Tutorials</string>
+
+
+    /*EDIT PROFILE HINT VALUE*/
+    <string name="editprofile_fullname">Your name</string>
+    <string name="editprofile_email">your email</string>
+    <string name="editprofile_passwd">Password</string>
+    <string name="editprofile_repasswd">Retype password</string>
+    <string name="editprofile_btnvalue">Update your profile !</string>
+    <string name="adddevice_scaqr">Scan QR code</string>
+
+    <string name="notifications_admin_channel_name">test</string>
+    <string name="notifications_admin_channel_description">testttt</string>
+</resources>

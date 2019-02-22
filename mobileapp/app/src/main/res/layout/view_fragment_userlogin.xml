@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="SmartDB"-->
+        <!--android:textColor="@color/white"-->
+        <!--android:textSize="50dp"-->
+        <!--android:textStyle="bold|italic" />-->
+
+        <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="car"-->
+        <!--android:textColor="@color/white"-->
+        <!--android:textSize="50dp"-->
+        <!--android:textStyle="bold" />-->
+    </LinearLayout>
+
+
+    <!--<FrameLayout-->
+    <!--android:id="@+id/container"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/buttonlay"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="20dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/inputEmail"
+            android:layout_width="322dp"
+            android:layout_height="45dp"
+            android:background="@drawable/formstyle"
+            android:hint="@string/login_email"
+            android:inputType="text"
+            android:text="haziq@gmail.com"
+            android:textColor="@color/textColorWhite"
+            android:textColorHint="#fff"
+            android:textSize="15sp" />
+
+
+        <EditText
+            android:id="@+id/inputPassword"
+            android:layout_width="322dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/formstyle"
+            android:hint="@string/register_passwd"
+            android:inputType="textPassword"
+            android:text="Edc9h"
+            android:textColor="@color/textColorWhite"
+            android:textColorHint="#fff"
+            android:textSize="15dp" />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/buttonlay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:background="@color/colorPrimary"
+            android:text="@string/login_btnlogin"
+            android:textColor="@color/textColorWhite"
+            android:textSize="12dp" />
+
+        <Button
+            android:id="@+id/btnRegister"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:background="@color/black_semi_transparent"
+            android:text="@string/login_btnregister"
+            android:textColor="@color/textColorWhite"
+            android:textSize="12dp" />
+    </LinearLayout>
+
+</RelativeLayout>

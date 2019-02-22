@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "680603530007",
+    "firebase_url": "https://smartdb-dae7d.firebaseio.com",
+    "project_id": "smartdb-dae7d",
+    "storage_bucket": "smartdb-dae7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680603530007:android:1f46ed5ca7d6e620",
+        "android_client_info": {
+          "package_name": "com.picotech.smartdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680603530007-o0ds8r39nuici167h9djie80bgi172qj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.picotech.smartdb",
+            "certificate_hash": "14afb0093bd488d6a57f5116a4cd9d16c1b397c8"
+          }
+        },
+        {
+          "client_id": "680603530007-jv9ruhnm0vlfilflb2ls1jfcpg0omd5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyKwANvWB25jNMae4uBw_ELpm1JwC5cYE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680603530007-jv9ruhnm0vlfilflb2ls1jfcpg0omd5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
