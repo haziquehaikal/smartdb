@@ -1,0 +1,5 @@
+The emerging of IoT technology in this century is booming where everything is connected to the internet. This technology is proven can ease human daily task especially in energy industry. The purpose of this project is to build and develop a Smart IoT-based power distribution board for Smart Home application. 
+
+Distribution box is an electrical distribution panel where it helps in power distribution in housed/enterprise premise. Besides, it also providing protection mechanism in braking the circuit via fuse installed inside the distribution box panel to avoid overloaded current flow into the premises that my damage the electrical appliances.
+
+ However, in some cases, some of the user cannot afford any power downtime where it may cause damage to their items. For example, if the refrigerator lost its power, it also will lose its cooling functionally in which may damage the food inside it. Therefore, by the existing of the system, it will help the user on know the status of the fuse as well turn it on/off if needed.
